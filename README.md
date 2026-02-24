@@ -93,6 +93,5 @@ I'm excited to work on challenging mobile projects — especially cross-platform
 - **Email**: sepehrtabeian@gmail.com
 - **LinkedIn**: [Sepehr Tabeian](https://www.linkedin.com/in/sepehr-tabeian-554b601a8)
 - **Medium**: [@sepehrtabeian](https://medium.com/@sepehrtabeian)
-- **GitHub**: [sepehrTabeian](https://github.com/sepehrTabeian)
 
 Thanks for stopping by! Feel free to explore the repos, star/fork anything useful, or reach out for collaboration. 🚀📱🔗
