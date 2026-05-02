@@ -70,9 +70,11 @@ Dependency Injection • Dynamic JSON Parsing • Multi-language support (Intl)
 
 Here are some of my highlighted open-source contributions:
 
+1. **[Nexora](https://github.com/sepehrTabeian/Nexora)**  
+   A professional-grade Flutter crypto exchange client
+   
 1. **[talent_form](https://github.com/sepehrTabeian/talent_form)**  
    User profile/skills collection form with client-side validation, dynamic fields, and seamless API submission.
-
 2. **[network_service](https://github.com/sepehrTabeian/network_service)**  
    Robust, reusable network layer for Flutter apps — handles API calls, error management, retries, and interceptors.
 
